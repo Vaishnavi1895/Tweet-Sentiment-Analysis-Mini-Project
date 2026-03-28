@@ -5,5 +5,5 @@ Include:
 **Project title** – e.g., Tweet Sentiment Analysis Mini Project
 **Objective** – Classify tweets as Positive/Negative
 **Dataset source** – Kaggle link
-**Steps included** – Data cleaning, sentiment analysis, visualization, WordCloud
+**Steps included** – Data cleaning, sentiment analysis, visualization
 **How to run** – e.g., in Google Colab
