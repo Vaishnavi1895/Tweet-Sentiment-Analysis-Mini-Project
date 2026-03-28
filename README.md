@@ -7,3 +7,4 @@ Include:
 **Dataset source** – Kaggle link
 **Steps included** – Data cleaning, sentiment analysis, visualization
 **How to run** – e.g., in Google Colab
+https://www.kaggle.com/datasets/ruchi798/data-science-tweets
